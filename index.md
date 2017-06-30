@@ -1,6 +1,5 @@
 # Testing
   * Markdeep called from index.md
-    - [Home](/)
-    - [Templates](/templates)
+    - [Home](/markdeep-testing/)
+    - [templates](/markdeep-testing/templates)
     - [templates/features.md.html](./templates/features.md.html)
-    - [/templates/features.md.html](/templates/features.md.html)
